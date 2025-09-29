@@ -3,7 +3,7 @@
 Relational maps to Wyeths and others.
 
 ## Masters Family Tree (Basic)
-Mother: Mary Cutter Bird (1851-1913)
+- Mother: Mary Cutter Bird (1851-1913)
 Siblings:
 Lydia Warren Masters (1876-)
 L.W. Masters (1877-)
