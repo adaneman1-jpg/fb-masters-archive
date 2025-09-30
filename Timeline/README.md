@@ -12,15 +12,15 @@ A centralized hub for F.B. (Frank B.) Masters' historical records, artistic work
 | **Timeline** | Chronological events. | 1900 residence; birth/death; occupations. |
 | **Documents & Census** | Historical records. | 1900 U.S. Census excerpts; address maps. |
 | **Art & Sketches** | Works and references. | Images of paintings/drawings; Wyeth influences. |
+| **Family & Connections** | Relational maps. | Masters-Wyeth pedigree; photos. |
+| **Research Notes** | Sources and to-dos. | Census rolls; local MA histories. |
+| **Media & Extras** | Multimedia. | Interactive 1900 map; site tour ideas. |
 Art-Sketches/Image-With-Caption.md
 ## Example: Misty Evening Scenes (p. 61)
 ![Vanderbilt Gates Photo](path/to/extracted-image.jpg)  <!-- Upload extracted image to repo -->
 
 **Caption**: Masters’ photography wasn’t intended solely for replicating mechanical or architectural form. Sometimes he captured atmospheric effects, as suggested by this Stieglitz-like photo of Cornelius Vanderbilt’s mansion gates on 5th Avenue and a pen and ink drawing of a similarly misty, light-dappled evening in Chicago, outside a bustling switchyard. (Top: “Memoirs of an American,” Sat. Eve. Post, April 1, 1905; Below, Andrew Daneman Collection.)
 
-| **Family & Connections** | Relational maps. | Masters-Wyeth pedigree; photos. |
-| **Research Notes** | Sources and to-dos. | Census rolls; local MA histories. |
-| **Media & Extras** | Multimedia. | Interactive 1900 map; site tour ideas. |
 
 ## How to Contribute
 - Upload files: Drag-and-drop images/PDFs here.
