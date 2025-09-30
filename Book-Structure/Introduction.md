@@ -21,3 +21,6 @@ A note on scope: connections to N.C. Wyeth, Howard Pyle, and the Brandywine circ
 
 ## Conventions
 Dates follow publication cover-dates unless evidence indicates production dates; titles reproduce period spellings; all magazines are cited at first mention with volume/issue/page, thereafter abbreviated. Exhibition citations follow catalogue title, venue, and year. Where ambiguity remains, it is flagged in notes rather than harmonized in the text.
+Masters exhibited a predilection and talent for drawing in his youth.[^1]
+
+[^1]: Ames, Gregory P. "Rush & Thunder of the Train: The Life and Railroad Art of Frank B. Masters," p. 2 (PDF in Research-Notes).
