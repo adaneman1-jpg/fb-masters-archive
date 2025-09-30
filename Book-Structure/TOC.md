@@ -23,6 +23,9 @@
   - B. Illustrated Works by Publication (with notes)
   - C. Genealogy of the Masters–Wyeth Families
 - Bibliography
+- - Ames, Gregory P. 'Rush & Thunder of the Train: The Life and Railroad Art of Frank B. Masters' (PDF in Research-Notes)."
+
+
 - Index
 
 ---
