@@ -20,5 +20,8 @@ A centralized hub for F.B. (Frank B.) Masters' historical records, artistic work
 - Upload files: Drag-and-drop images/PDFs here.
 - Edit Markdown: Use the pencil icon on any file.
 - Sources: Cite via links (e.g., Ancestry.com).
+- "Source: Ames Article, p. 3 (Masters-Text-of-Article-and-Captions-Finale.pdf)"
+
+
 
 Questions? Ping me—let's add your first artifact!
