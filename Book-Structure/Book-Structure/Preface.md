@@ -14,7 +14,7 @@ Another is the recollection by a grandson of visiting Edward Steichen with his g
 
 We see that during Masters' early years in art, his path criss-crossed some of the most prominent figures in American illustration. Masters was a talented artist, but unfortunately not destined to achieve the fame of those he knew, taught or studied under such as Charles Herbert Woodbury, Eric Pape, Howard Pyle, N. C. Wyeth, Maxfield Parrish and John Schoonover to name a few.
 
-Where Masters stands out is in the brilliance of his photo-graphic imagery which touches on styles in photography yet to come in the 1910's, 1920's and 1930's. Had Frank Bird Masters believed himself to be a photographic artist, he would already be among those names his work parallels or predates such as Steichen, Strand, Steiglitz, Sheeler and Walker Evans to name a few. I believe Masters is a major undiscovered artist of the 20th century, but for his photographic work not his illustrations!
+Where Masters stands out is in the brilliance of his photographic imagery which touches on styles in photography yet to come in the 1910's, 1920's and 1930's. Had Frank Bird Masters believed himself to be a photographic artist, he would already be among those names his work parallels or predates such as Steichen, Strand, Steiglitz, Sheeler and Walker Evans to name a few. I believe Masters is a major undiscovered artist of the 20th century, but for his photographic work not his illustrations!
 
 
 *Updated: September 30, 2025*
