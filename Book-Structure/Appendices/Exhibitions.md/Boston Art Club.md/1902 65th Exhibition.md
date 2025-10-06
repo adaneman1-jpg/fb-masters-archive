@@ -1,6 +1,6 @@
 # 1902 Exhibition at Boston Art Club
 
-**Event**: 65th Exhibition of Oil Paintings & Sculpture  
+**Event**: 65th Exhibition of Oil Paintings & Sculpture 
 **Location**: Boston Art Club, Boston, MA  
 **Work**: "Down B'the Cove — October Afternoon" (No. 71)  
 **Notes**: Masters' Address: 23 Irvington Street, Boston, Mass.  
